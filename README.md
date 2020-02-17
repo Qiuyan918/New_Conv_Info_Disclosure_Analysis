@@ -1,0 +1,2 @@
+# New_Conv_Info_Disclosure_Analysis
+利用公开数据，比较了各个省份信息披露的及时性。
